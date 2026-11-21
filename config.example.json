@@ -1,0 +1,8 @@
+{
+    "securityKey": "SUA_CHAVE_DE_32_CARACTERES_AQUI",
+    "iv": "SEU_IV_DE_32_CARACTERES_AQUI__",
+    "dbPath": "C:\\RO\\LeituraOID\\tarifador.db",
+    "snmpCommunity": "public",
+    "snmpTimeout": 300,
+    "snmpRetries": 2
+}

@@ -1,0 +1,25 @@
+# Configuracao com chaves sensiveis
+config.json
+
+# Executavel compilado localmente (nao incluir no repo)
+RJ256Crypto.exe
+
+# Arquivos temporarios
+*.tmp
+*.bak
+*.lock
+
+# Logs
+logs/
+
+# Banco de dados
+*.db
+
+# Cache do Visual Studio
+.vs/
+bin/
+obj/
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
